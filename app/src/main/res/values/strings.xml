@@ -10,4 +10,12 @@
     <string name="sign_up">Sign Up</string>
     <string name="register">Register</string>
     <string name="already_have_an_account_log_in">Already have an account ? Log In</string>
+    <string name="first_name_is_required">First name is required</string>
+    <string name="last_name_is_required">Last name is required</string>
+    <string name="email_is_required">Email is required</string>
+    <string name="codehive_id_is_required">Codehive id is required</string>
+    <string name="usernameis_required">Usernameis required</string>
+    <string name="password_is_required">Password is required</string>
+    <string name="password_and_confirmation_is_required">Password and confirmation is required</string>
+    <string name="password_and_confirmation_do_not_match">Password and confirmation do not match</string>
 </resources>
