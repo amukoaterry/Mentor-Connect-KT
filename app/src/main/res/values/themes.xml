@@ -4,7 +4,10 @@
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
-    <style name="Theme.mentorConnect" parent="Base.Theme.MentorConnect" />
+    <style name="Theme.mentorConnect" parent="Base.Theme.MentorConnect" >
+        <item name="android:fontFamily">@font/love_font</item>
+    </style>
+
     <style name="tvTitleStyle.">
         <item name="android:textSize">22sp</item>
         <item name="android:textColor">@color/black</item>

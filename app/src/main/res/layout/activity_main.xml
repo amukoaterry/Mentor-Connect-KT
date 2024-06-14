@@ -17,6 +17,8 @@
         android:layout_marginTop="32dp"
         style="@style/tvTitleStyle"
         android:text="@string/sign_up"
+
+        android:fontFamily="@font/love_font"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
